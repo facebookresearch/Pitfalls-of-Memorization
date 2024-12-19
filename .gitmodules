@@ -1,0 +1,3 @@
+[submodule "XRM"]
+	path = XRM
+	url = https://github.com/facebookresearch/XRM.git
